@@ -1,4 +1,4 @@
-# 🪨 Rock Paper Scissors – Terminal Game
+# 🪨 Python Project 4: Rock Paper Scissors – Terminal Game
 
 ## 🎯 Objective
 
